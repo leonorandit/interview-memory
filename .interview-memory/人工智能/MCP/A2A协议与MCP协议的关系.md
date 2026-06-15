@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 分
+anchor: 乙
 rhyme: 工协分，互补生
 created: 2025-06-13
 ---

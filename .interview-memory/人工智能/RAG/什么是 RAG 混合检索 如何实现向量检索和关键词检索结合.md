@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 混
+anchor: 键
 rhyme: 向量加词混双兵，RRF来收队
 created: 2026-06-14
 ---

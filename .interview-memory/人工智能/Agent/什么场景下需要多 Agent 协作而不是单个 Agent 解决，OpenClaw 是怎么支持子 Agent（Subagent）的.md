@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 协
+anchor: 景
 rhyme: 协分专，三场景
 created: 2026-06-13
 ---

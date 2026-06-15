@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 选
+anchor: 择
 rhyme: 语维上，速域证
 created: 2025-06-13
 ---

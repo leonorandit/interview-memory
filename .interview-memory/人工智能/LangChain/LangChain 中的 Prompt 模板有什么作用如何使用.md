@@ -1,7 +1,7 @@
 ---
 type: 因果型/列举型
 domain: 人工智能
-anchor: 模
+anchor: 中
 rhyme: 模板复用格式稳
 created: 2026-06-14
 ---

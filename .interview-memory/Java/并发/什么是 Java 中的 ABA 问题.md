@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 版
+anchor: 问
 rhyme: 版戳改，三解法
 created: 2026-06-14
 ---

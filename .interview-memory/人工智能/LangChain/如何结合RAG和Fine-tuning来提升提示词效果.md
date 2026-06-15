@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 合
+anchor: 升
 rhyme: 合纵连横双剑舞
 created: 2026-06-14
 ---

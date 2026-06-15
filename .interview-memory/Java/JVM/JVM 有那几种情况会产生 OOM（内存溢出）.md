@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 堆
+anchor: 那
 rhyme: 堆代方线直，五OOM
 created: 2026-06-13
 ---

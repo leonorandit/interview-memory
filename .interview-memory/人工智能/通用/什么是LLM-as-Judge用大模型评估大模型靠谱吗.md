@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 裁
+anchor: 估
 rhyme: 裁罢虽快省人工，偏见自评坑连坑
 created: 2026-06-14
 ---

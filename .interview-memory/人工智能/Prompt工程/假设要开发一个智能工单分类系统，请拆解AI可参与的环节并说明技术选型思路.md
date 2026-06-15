@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 拆
+anchor: 假
 rhyme: 拆分派跟，四环节
 created: 2026-06-13
 ---

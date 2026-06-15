@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 模
+anchor: 如
 rhyme: 模态融合管道通
 created: 2026-06-14
 ---

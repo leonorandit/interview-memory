@@ -1,7 +1,7 @@
 ---
 type: 对比型/因果型
 domain: 人工智能
-anchor: 深
+anchor: 样
 rhyme: 深双向，掩码训
 created: 2026-06-14
 ---

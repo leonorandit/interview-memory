@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 窗
+anchor: 最
 rhyme: 窗历工，三约束
 created: 2026-06-13
 ---

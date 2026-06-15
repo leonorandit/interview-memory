@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 降
+anchor: 进
 rhyme: 多头并行要降维，QKV各自切八份
 created: 2026-06-14
 ---

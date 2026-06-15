@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 调
+anchor: 函
 rhyme: 调函三步定乾坤
 created: 2026-06-14
 ---

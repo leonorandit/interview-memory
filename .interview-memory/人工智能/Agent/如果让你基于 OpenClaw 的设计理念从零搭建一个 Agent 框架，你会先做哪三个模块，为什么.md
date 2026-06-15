@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 核
+anchor: 于
 rhyme: 核记工，三优先
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: Java
-anchor: 半
+anchor: 哪
 rhyme: 半全配，三不同
 created: 2026-06-13
 ---

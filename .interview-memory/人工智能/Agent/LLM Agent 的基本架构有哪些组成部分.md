@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 架
+anchor: 成
 rhyme: 架感记工，四组件
 created: 2026-06-13
 ---

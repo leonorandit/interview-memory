@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 链
+anchor: 思
 rhyme: 链反工，两模式
 created: 2026-06-14
 ---

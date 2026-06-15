@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 代
+anchor: 丙
 rhyme: 代决工，循环停
 created: 2025-06-13
 ---

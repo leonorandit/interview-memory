@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 策
+anchor: 略
 rhyme: 固段义，递智切
 created: 2025-06-13
 ---

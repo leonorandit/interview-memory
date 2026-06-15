@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 同
+anchor: 果
 rhyme: KQ同矩阵，查询钥匙混一起
 created: 2026-06-14
 ---

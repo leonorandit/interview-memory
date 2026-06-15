@@ -1,7 +1,7 @@
 ---
 type: 列举型/因果型
 domain: 人工智能
-anchor: 双
+anchor: 描
 rhyme: 双向编码来预训，下游任务两路分
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 增
+anchor: 询
 rhyme: 增历意，三增强
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 流
+anchor: 完
 rhyme: 三流 Rewards 到 Policy 优
 created: 2026-06-14
 ---

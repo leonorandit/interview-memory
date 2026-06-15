@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 红
+anchor: 试
 rhyme: 红队攻，蓝队守，迭代循环不能休
 created: 2026-06-14
 ---

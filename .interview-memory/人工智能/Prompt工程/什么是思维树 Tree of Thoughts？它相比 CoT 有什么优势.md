@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 树
+anchor: 相
 rhyme: 树分叉，多路搜
 created: 2026-06-14
 ---

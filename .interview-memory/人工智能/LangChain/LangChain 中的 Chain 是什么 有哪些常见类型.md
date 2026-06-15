@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 链
+anchor: 的
 rhyme: 链串组件顺序连
 created: 2026-06-14
 ---

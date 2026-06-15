@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 插
+anchor: 采
 rhyme: 插安隔，四问题
 created: 2026-06-13
 ---

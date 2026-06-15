@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 查
+anchor: 吗
 rhyme: 查 Explain，四看效
 created: 2026-06-13
 ---

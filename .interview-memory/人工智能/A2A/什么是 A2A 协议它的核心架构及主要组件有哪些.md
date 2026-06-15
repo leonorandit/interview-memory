@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 代
+anchor: 心
 rhyme: 代找宣，五组件
 created: 2026-06-13
 ---

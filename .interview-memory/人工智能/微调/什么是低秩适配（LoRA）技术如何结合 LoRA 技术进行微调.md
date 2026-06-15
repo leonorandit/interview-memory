@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 秩
+anchor: 低
 rhyme: 低秩拆，AB乘
 created: 2026-06-13
 ---

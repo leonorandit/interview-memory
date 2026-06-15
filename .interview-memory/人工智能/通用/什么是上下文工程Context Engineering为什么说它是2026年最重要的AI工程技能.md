@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 构
+anchor: 年
 rhyme: 构框架，填血肉，上下文里藏宇宙
 created: 2026-06-14
 ---

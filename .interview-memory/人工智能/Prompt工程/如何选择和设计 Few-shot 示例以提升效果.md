@@ -1,7 +1,7 @@
 ---
 type: 流程型/列举型
 domain: 人工智能
-anchor: 例
+anchor: 以
 rhyme: 例要少，质要高
 created: 2026-06-14
 ---

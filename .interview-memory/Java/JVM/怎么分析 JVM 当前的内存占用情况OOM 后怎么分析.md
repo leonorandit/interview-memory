@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: Java
-anchor: 映
+anchor: 析
 rhyme: 映堆线，四分析
 created: 2026-06-13
 ---

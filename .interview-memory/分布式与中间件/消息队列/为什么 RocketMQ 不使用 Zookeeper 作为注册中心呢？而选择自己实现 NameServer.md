@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 分布式与中间件
-anchor: 轻
+anchor: 不
 rhyme: 轻无状，三原因
 created: 2026-06-13
 ---

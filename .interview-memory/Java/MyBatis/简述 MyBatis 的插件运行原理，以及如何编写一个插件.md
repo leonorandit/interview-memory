@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 代
+anchor: 述
 rhyme: 代四接，拦签名
 created: 2026-06-13
 ---

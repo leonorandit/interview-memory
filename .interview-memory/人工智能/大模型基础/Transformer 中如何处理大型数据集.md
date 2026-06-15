@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 批
+anchor: 据
 rhyme: 大数据分批次，分布式并行处理
 created: 2026-06-14
 ---

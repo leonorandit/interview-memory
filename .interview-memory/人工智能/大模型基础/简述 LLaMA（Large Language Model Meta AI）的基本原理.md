@@ -1,7 +1,7 @@
 ---
 type: 因果型/流程型
 domain: 人工智能
-anchor: 解
+anchor: 基
 rhyme: 解码自回归，Transformer来撑腰
 created: 2026-06-14
 ---

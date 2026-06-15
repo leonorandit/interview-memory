@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 快
+anchor: 当
 rhyme: 快流预，三策优
 created: 2026-06-13
 ---

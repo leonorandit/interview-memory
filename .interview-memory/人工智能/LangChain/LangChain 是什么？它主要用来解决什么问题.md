@@ -1,7 +1,7 @@
 ---
 type: 因果型/列举型
 domain: 人工智能
-anchor: 链
+anchor: 它
 rhyme: 链组件，串流程
 created: 2026-06-14
 ---

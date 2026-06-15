@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 执
+anchor: 行
 rhyme: 执观察，思行动
 created: 2026-06-14
 ---

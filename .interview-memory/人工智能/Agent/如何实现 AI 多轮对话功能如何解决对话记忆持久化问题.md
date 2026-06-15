@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 记
+anchor: 话
 rhyme: 记存加，三实现
 created: 2026-06-13
 ---

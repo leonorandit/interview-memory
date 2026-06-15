@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 查
+anchor: 主
 rhyme: 切存查排合生
 created: 2025-06-13
 updated: 2025-06-13

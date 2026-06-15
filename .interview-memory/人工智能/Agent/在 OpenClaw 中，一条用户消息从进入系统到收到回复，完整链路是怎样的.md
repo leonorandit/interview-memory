@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 链
+anchor: 条
 rhyme: 链运调生，六步走
 created: 2026-06-13
 ---

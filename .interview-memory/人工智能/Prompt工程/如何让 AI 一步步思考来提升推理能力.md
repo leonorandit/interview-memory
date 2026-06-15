@@ -1,7 +1,7 @@
 ---
 type: 流程型/因果型
 domain: 人工智能
-anchor: 步
+anchor: 考
 rhyme: 步拆解，链推理
 created: 2026-06-14
 ---

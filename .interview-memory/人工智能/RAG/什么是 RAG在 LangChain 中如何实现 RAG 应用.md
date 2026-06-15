@@ -1,7 +1,7 @@
 ---
 type: 流程型/因果型
 domain: 人工智能
-anchor: 增
+anchor: 应
 rhyme: 检索增强生答案
 created: 2026-06-14
 ---

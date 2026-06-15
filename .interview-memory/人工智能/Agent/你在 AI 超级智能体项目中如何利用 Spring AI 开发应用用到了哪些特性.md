@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 模
+anchor: 你
 rhyme: 模工记顾，四特性
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 流
+anchor: 整
 rhyme: 切存查排合生，七步一首歌
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 零
+anchor: 这
 rhyme: 零内异，六优化
 created: 2026-06-13
 ---

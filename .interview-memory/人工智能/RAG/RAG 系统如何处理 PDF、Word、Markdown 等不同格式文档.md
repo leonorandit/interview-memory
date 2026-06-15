@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 解
+anchor: 统
 rhyme: 解析洗切标准化，格式统一再入库
 created: 2026-06-14
 ---

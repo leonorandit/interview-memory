@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 三
+anchor: 依
 rhyme: 三缓曝，两前提
 created: 2026-06-13
 ---

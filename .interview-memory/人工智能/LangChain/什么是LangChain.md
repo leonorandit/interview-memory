@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 链
+anchor: 丁
 rhyme: 链框工，模调用
 created: 2025-06-13
 ---

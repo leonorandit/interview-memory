@@ -1,7 +1,7 @@
 ---
 type: 因果型/流程型
 domain: 人工智能
-anchor: 拆
+anchor: 何
 rhyme: BERT拆字用BPE，罕见词变子词凑
 created: 2026-06-14
 ---

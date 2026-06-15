@@ -1,7 +1,7 @@
 ---
 type: 流程型/列举型
 domain: 人工智能
-anchor: 引
+anchor: 信
 rhyme: 引随查带标
 created: 2026-06-14
 ---

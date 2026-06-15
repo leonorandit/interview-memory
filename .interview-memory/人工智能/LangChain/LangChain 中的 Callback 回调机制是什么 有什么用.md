@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 回
+anchor: 制
 rhyme: 钩子回调处处埋
 created: 2026-06-14
 ---

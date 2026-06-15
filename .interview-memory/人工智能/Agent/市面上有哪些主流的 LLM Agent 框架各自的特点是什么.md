@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 架
+anchor: 市
 rhyme: 架Lang自，五框架
 created: 2026-06-14
 ---

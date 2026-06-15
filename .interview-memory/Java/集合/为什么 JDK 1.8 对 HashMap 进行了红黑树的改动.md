@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 长
+anchor: 黑
 rhyme: 长链慢，红黑快
 created: 2026-06-13
 ---

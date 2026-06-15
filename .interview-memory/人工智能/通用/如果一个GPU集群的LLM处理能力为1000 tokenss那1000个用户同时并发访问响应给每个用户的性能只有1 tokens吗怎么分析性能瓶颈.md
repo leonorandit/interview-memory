@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 并
+anchor: 群
 rhyme: 并批缓，四分析
 created: 2026-06-13
 ---

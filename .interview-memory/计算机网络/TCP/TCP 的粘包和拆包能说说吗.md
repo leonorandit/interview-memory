@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 计算机网络
-anchor: 流
+anchor: 粘
 rhyme: 流无定，三原因
 created: 2026-06-14
 ---

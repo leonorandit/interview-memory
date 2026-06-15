@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 同
+anchor: 可
 rhyme: 同值点乘会内卷
 created: 2026-06-14
 ---

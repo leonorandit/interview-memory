@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 堆
+anchor: 常
 rhyme: 堆代收，八参数
 created: 2026-06-13
 ---

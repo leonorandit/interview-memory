@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 限
+anchor: 界
 rhyme: 限深资，三保护
 created: 2026-06-13
 ---

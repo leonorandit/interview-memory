@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 代
+anchor: 与
 rhyme: 代决工，三不同
 created: 2026-06-13
 ---

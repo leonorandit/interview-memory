@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 等
+anchor: 求
 rhyme: 等重追，三处理
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 查
+anchor: 来
 rhyme: Query查钥匙，Key开门示
 created: 2026-06-14
 ---

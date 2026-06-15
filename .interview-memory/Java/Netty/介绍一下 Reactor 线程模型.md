@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 反
+anchor: 绍
 rhyme: 反单主多，三模型
 created: 2026-06-13
 ---

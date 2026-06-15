@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 计算机网络
-anchor: 等
+anchor: 手
 rhyme: 等两MSL，旧包死透
 created: 2026-06-14
 ---

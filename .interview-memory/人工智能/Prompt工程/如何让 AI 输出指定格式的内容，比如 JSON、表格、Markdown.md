@@ -1,7 +1,7 @@
 ---
 type: 列举型/流程型
 domain: 人工智能
-anchor: 格
+anchor: 出
 rhyme: 格式框，示例绑
 created: 2026-06-14
 ---

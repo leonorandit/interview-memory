@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 流
+anchor: 式
 rhyme: 流分段，逐字吐
 created: 2026-06-14
 ---

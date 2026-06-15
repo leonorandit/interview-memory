@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 延
+anchor: 理
 rhyme: 延强并，五解法
 created: 2026-06-13
 ---

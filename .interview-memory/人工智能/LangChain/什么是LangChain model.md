@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 模
+anchor: 什
 rhyme: 模封装，统一调
 created: 2025-06-13
 ---

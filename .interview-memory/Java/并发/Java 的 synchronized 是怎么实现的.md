@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 监
+anchor: 怎
 rhyme: 监升对，四实现
 created: 2026-06-13
 ---

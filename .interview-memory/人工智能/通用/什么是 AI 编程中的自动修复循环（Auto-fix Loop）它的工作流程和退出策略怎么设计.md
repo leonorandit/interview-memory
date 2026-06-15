@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 环
+anchor: 退
 rhyme: 报错修测环
 created: 2026-06-14
 ---

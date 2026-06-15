@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 缓
+anchor: 保
 rhyme: 缓监限，五保障
 created: 2026-06-13
 ---

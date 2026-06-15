@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 跳
+anchor: 残
 rhyme: 跳过深谷梯度稳
 created: 2026-06-14
 ---

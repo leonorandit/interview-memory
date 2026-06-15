@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 工
+anchor: 各
 rhyme: 工快简标，三工具
 created: 2026-06-13
 ---

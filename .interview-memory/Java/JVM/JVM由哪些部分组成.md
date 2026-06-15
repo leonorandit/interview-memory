@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 堆
+anchor: 由
 rhyme: 堆方计，五组成
 created: 2026-06-13
 ---

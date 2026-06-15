@@ -1,7 +1,7 @@
 ---
 type: 列举型/因果型
 domain: 人工智能
-anchor: 嵌
+anchor: 入
 rhyme: 词嵌稠密向量装，OneHot太胖要下岗
 created: 2026-06-14
 ---

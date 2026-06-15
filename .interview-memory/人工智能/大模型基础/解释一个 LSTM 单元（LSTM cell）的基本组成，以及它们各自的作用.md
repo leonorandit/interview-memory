@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 门
+anchor: 个
 rhyme: 三门一态控长期
 created: 2026-06-14
 ---

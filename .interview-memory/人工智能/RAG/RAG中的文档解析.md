@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 解
+anchor: 文
 rhyme: 解析转，结构提
 created: 2025-06-13
 ---

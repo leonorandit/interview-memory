@@ -1,7 +1,7 @@
 ---
 type: 对比型/列举型
 domain: 人工智能
-anchor: 深
+anchor: 度
 rhyme: 深钻到底自变通
 created: 2026-06-14
 ---

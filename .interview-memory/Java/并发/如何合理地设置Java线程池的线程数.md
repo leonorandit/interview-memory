@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 核
+anchor: 地
 rhyme: 核IO，两公式
 created: 2026-06-14
 ---

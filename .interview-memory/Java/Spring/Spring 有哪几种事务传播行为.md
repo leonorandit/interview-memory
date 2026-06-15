@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 传
+anchor: 几
 rhyme: 传新嵌，七行为
 created: 2026-06-14
 ---

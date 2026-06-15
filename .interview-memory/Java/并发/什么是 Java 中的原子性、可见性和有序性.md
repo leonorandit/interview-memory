@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 原
+anchor: 性
 rhyme: 原可见，三特性
 created: 2026-06-13
 ---

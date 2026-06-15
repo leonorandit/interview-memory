@@ -1,7 +1,7 @@
 ---
 type: 列举型/因果型
 domain: 人工智能
-anchor: 解
+anchor: 作
 rhyme: 解格式，抓结构
 created: 2026-06-14
 ---

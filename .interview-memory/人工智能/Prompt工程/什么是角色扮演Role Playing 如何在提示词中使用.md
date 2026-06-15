@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 角
+anchor: 色
 rhyme: 入角演戏风格明
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型/流程型
 domain: 人工智能
-anchor: 排
+anchor: 需
 rhyme: 召回虽多精排先
 created: 2026-06-14
 ---

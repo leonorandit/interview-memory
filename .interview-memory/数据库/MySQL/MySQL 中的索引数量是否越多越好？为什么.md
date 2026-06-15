@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 多
+anchor: 数
 rhyme: 多写慢，三代价
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: Java
-anchor: 混
+anchor: 译
 rhyme: 混编解，JIT热
 created: 2026-06-13
 ---

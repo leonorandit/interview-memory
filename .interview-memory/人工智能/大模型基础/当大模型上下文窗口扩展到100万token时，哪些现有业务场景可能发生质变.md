@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 长
+anchor: 口
 rhyme: 长书代，三质变
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 路
+anchor: 知
 rhyme: 路查排，五策略
 created: 2026-06-13
 ---

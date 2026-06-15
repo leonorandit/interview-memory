@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 慢
+anchor: 上
 rhyme: 慢命分，五优化
 created: 2026-06-13
 ---

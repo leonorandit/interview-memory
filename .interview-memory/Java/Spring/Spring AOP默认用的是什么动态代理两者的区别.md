@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: Java
-anchor: 接
+anchor: 认
 rhyme: 接C接，两代理
 created: 2026-06-13
 ---

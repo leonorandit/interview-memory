@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 数据库
-anchor: 锁
+anchor: 些
 rhyme: 锁表行，共排两
 created: 2026-06-13
 ---

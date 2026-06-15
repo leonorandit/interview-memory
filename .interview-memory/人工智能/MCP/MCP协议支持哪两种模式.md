@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 模
+anchor: 议
 rhyme: 标服事，本远两
 created: 2025-06-13
 ---

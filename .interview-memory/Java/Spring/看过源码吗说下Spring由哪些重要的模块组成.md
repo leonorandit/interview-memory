@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 核
+anchor: 过
 rhyme: 核数W，七模块
 created: 2026-06-13
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 通
+anchor: 甲
 rhyme: 通用代，自主完
 created: 2025-06-13
 ---

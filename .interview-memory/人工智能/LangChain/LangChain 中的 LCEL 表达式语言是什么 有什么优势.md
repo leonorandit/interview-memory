@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 表
+anchor: 达
 rhyme: 管道串联表意清
 created: 2026-06-14
 ---

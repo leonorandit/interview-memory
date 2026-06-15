@@ -1,7 +1,7 @@
 ---
 type: 列举型/因果型
 domain: 人工智能
-anchor: 省
+anchor: 产
 rhyme: 缓存分块省成本
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 选
+anchor: 微
 rhyme: 外脑换脑要分明，动态知识选RAG
 created: 2026-06-14
 ---

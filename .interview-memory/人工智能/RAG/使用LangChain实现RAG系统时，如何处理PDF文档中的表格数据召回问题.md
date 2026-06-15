@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 表
+anchor: 使
 rhyme: 表拆结，三法召
 created: 2026-06-13
 ---

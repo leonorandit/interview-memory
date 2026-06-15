@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 模
+anchor: 是
 rhyme: 模主工，三规范
 created: 2026-06-13
 ---

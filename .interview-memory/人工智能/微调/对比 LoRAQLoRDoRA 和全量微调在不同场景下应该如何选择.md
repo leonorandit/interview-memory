@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 选
+anchor: 和
 rhyme: 显小选Q，精准选D
 created: 2026-06-14
 ---

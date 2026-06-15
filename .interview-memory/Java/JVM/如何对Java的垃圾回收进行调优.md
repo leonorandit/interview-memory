@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 选
+anchor: 垃
 rhyme: 选参代，五调优
 created: 2026-06-13
 ---

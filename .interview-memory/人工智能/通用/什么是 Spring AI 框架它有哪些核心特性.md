@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 框
+anchor: 特
 rhyme: 框模工顾，四特性
 created: 2026-06-13
 ---

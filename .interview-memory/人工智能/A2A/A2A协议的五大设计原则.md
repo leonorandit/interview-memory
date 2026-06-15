@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 管
+anchor: 设
 rhyme: 找宣管安用
 created: 2025-06-13
 ---

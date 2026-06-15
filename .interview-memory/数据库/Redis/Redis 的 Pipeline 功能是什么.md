@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 批
+anchor: 功
 rhyme: 批一发，三优势
 created: 2026-06-13
 ---

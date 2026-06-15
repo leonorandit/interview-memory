@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 数据库
-anchor: 查
+anchor: 请
 rhyme: 查根叶，三步骤
 created: 2026-06-13
 ---

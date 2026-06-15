@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 模
+anchor: 了
 rhyme: 模工单代，策工观
 created: 2026-06-14
 ---

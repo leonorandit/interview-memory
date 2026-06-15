@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: Java
-anchor: 扩
+anchor: 容
 rhyme: 扩倍迁，e尾插
 created: 2026-06-13
 ---

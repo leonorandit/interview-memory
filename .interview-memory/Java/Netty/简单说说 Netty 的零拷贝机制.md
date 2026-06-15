@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 零
+anchor: 拷
 rhyme: 零堆直，三方式
 created: 2026-06-13
 ---

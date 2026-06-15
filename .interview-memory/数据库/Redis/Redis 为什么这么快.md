@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 数据库
-anchor: 单
+anchor: 为
 rhyme: 单内模，五原因
 created: 2026-06-13
 ---

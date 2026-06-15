@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 堆
+anchor: 内
 rhyme: 堆方计栈，五区域
 created: 2026-06-13
 ---

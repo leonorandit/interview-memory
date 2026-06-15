@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 标
+anchor: 圾
 rhyme: 标复分，三算法
 created: 2026-06-13
 ---

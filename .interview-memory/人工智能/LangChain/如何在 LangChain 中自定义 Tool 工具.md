@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 人工智能
-anchor: 工
+anchor: 义
 rhyme: 定名加参三步工
 created: 2026-06-14
 ---

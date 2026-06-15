@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: 分布式与中间件
-anchor: 代
+anchor: 让
 rhyme: 代编网传，五模块
 created: 2026-06-13
 ---

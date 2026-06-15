@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 协
+anchor: 别
 rhyme: 协封装，两区别
 created: 2026-06-13
 ---

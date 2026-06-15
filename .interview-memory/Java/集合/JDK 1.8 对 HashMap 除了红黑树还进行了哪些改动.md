@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: Java
-anchor: 头
+anchor: 除
 rhyme: 头改尾，扰变与
 created: 2026-06-13
 ---

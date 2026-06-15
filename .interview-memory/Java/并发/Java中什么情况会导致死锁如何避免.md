@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 环
+anchor: 情
 rhyme: 环互请，四条件
 created: 2026-06-14
 ---

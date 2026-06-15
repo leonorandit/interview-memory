@@ -1,7 +1,7 @@
 ---
 type: 列举型
 domain: 人工智能
-anchor: 模
+anchor: 么
 rhyme: 模查排，三阶段
 created: 2026-06-13
 ---

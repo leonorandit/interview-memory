@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: Java
-anchor: 显
+anchor: 区
 rhyme: 显中可，五区别
 created: 2026-06-13
 ---

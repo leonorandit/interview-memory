@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 权
+anchor: 召
 rhyme: 权融动，三法分
 created: 2026-06-13
 ---

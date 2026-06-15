@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 匠
+anchor: 价
 rhyme: 提示如工匠，雕琢出华章
 created: 2026-06-14
 ---

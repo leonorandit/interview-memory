@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 人工智能
-anchor: 合
+anchor: 将
 rhyme: 合二为一，一步到位
 created: 2026-06-14
 ---

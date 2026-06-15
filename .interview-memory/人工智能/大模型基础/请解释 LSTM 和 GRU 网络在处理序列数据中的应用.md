@@ -1,7 +1,7 @@
 ---
 type: 对比型/流程型
 domain: 人工智能
-anchor: 门
+anchor: 络
 rhyme: 三门管序，遗忘更新
 created: 2026-06-14
 ---

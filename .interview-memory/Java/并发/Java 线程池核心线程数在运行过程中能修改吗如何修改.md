@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 调
+anchor: 修
 rhyme: 调set核，两参数
 created: 2026-06-13
 ---

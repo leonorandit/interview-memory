@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 拆
+anchor: 决
 rhyme: 拆定长，三解码
 created: 2026-06-13
 ---

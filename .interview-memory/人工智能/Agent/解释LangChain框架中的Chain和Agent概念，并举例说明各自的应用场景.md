@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 链
+anchor: 释
 rhyme: 链固代，Agent决
 created: 2026-06-13
 ---

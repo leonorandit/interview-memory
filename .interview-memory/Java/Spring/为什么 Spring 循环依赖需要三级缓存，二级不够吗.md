@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: Java
-anchor: 代
+anchor: 循
 rhyme: 代曝原，三原因
 created: 2026-06-13
 ---

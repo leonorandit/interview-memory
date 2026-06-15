@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 插
+anchor: 们
 rhyme: 插入模块，位置不同
 created: 2026-06-14
 ---

@@ -1,7 +1,7 @@
 ---
 type: 因果型
 domain: 计算机网络
-anchor: 流
+anchor: 动
 rhyme: 窗口滑动，流控拥塞
 created: 2026-06-14
 ---

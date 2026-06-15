@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: Java
-anchor: 分
+anchor: 具
 rhyme: 分映适，九步走
 created: 2026-06-13
 ---

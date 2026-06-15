@@ -1,7 +1,7 @@
 ---
 type: 对比型
 domain: 人工智能
-anchor: 环
+anchor: 次
 rhyme: 环工反，四区别
 created: 2026-06-13
 ---

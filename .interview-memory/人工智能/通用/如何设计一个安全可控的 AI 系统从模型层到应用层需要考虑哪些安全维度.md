@@ -1,7 +1,7 @@
 ---
 type: 列举型/流程型
 domain: 人工智能
-anchor: 盾
+anchor: 到
 rhyme: 盾分三层守
 created: 2026-06-14
 ---

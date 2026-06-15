@@ -1,7 +1,7 @@
 ---
 type: 流程型
 domain: Java
-anchor: 运
+anchor: 方
 rhyme: 运推刷，四步走
 created: 2026-06-13
 ---
