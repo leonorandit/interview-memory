@@ -82,3 +82,99 @@
 | 长 | 当需要处理超长大模型上下文窗口限制时，有哪些可行的工程解决方案 | 长切滑，四方案 | 列举型 |
 | 门 | 与循环神经网络（RNN）相比，LSTM 是如何解决梯度消失问题的 | 三门控，忘输记，梯度 highway 走到底 | 因果型 |
 | 颈 | Transformer 模型的性能瓶颈在哪 | 颈长方，内参激 | 列举型/因果型 |
+
+## 知识链路图
+
+```
+词嵌入基础层
+    │
+    ├─ 入 ── 什么是词嵌入（Word Embedding）？
+    ├─ 矩 ── GloVe（全局共现矩阵）
+    ├─ 子 ── FastText（子词n-gram）
+    ├─ 负 ── 负采样（训练优化）
+    ├─ 树 ── 层次softmax（训练优化）
+    ├─ 速 ── Word2Vec加速方法汇总
+    ├─ 训 ── Word2Vec训练实操流程
+    └─ 窗 ── Word2Vec如何获取词向量
+              ↓
+序列模型层
+    │
+    ├─ 个 ── LSTM单元组成
+    ├─ 络 ── LSTM和GRU网络应用
+    ├─ 门 ── LSTM解决梯度消失
+    ├─ 藏 ── hidden state vs cell state
+    ├─ 简 ── LSTM和GRU区别
+    └─ 并 ── Transformer解决RNN问题
+              ↓
+Transformer架构层
+    │
+    ├─ 构 ── Transformer架构和基本原理
+    ├─ 码 ── Encoder模块理解
+    ├─ 映 ── 序列到序列映射
+    ├─ 头 ── 多头注意力机制
+    ├─ 进 ── 多头注意力降维
+    ├─ 可 ── K和Q同值点乘
+    ├─ 果 ── K和Q同矩阵影响
+    ├─ 来 ── self attention中K和Q作用
+    ├─ 点 ── attention点乘还是加法
+    ├─ 力 ── Attention Masking原理
+    ├─ 遮 ── Decoder vs Encoder自注意力
+    ├─ 层 ── LayerNorm vs BatchNorm
+    ├─ 残 ── 残差连接缓解梯度消失
+    ├─ 位 ── 位置编码
+    ├─ 旋 ── RoPE旋转位置编码
+    ├─ 据 ── 处理大型数据集
+    ├─ 显 ── 最占用显存部分
+    ├─ 颈 ── 性能瓶颈
+    ├─ 觉 ── 缓解性能瓶颈
+    ├─ 测 ── 训练后性能评估
+    └─ 归 ── 自回归属性
+              ↓
+BERT及预训练层
+    │
+    ├─ 描 ── BERT模型架构和应用
+    ├─ 罩 ── BERT mask vs CBOW
+    ├─ 何 ── BERT处理罕见词
+    ├─ 滑 ── 解决BERT输入长度限制
+    ├─ 样 ── Word2Vec到BERT改进
+    └─ 步 ── CoT思维链实现
+              ↓
+多模态与应用层
+    │
+    ├─ 图 ── ViT（Vision Transformer）
+    ├─ 融 ── ViLT视觉语言融合
+    ├─ 融 ── ViLT应用于图像识别
+    ├─ 度 ── 深度思考与自适应思考
+    ├─ 后 ── Background Agent
+    ├─ 协 ── ACP协议
+    ├─ 匠 ── Agentic Engineering
+    ├─ 甲 ── Manus
+    ├─ 操 ── Computer Use
+    ├─ 交 ── ReAct
+    ├─ 基 ── LLaMA基本原理
+    ├─ 旋 ── LLaMA旋转位置编码
+    ├─ 用 ── LLaMA实际应用
+    ├─ 口 ── 上下文窗口扩展质变
+    ├─ 长 ── 超长上下文工程方案
+    ├─ 机 ── Token缓存机制
+    ├─ 计 ── Token计费区别
+    ├─ 本 ── 本地部署vs云端
+    ├─ 当 ── API延迟优化策略
+    ├─ 场 ── 15分钟CRUD实操
+    ├─ 幻 ── AI幻觉及缓解
+    ├─ 涌 ── 涌现能力
+    ├─ 格 ── 结构化输出
+    ├─ 结 ── 结构化输出（Spring AI）
+    ├─ 栏 ── 护栏技术
+    ├─ 缓 ── GPTCache
+    ├─ 记 ── 长短期记忆机制
+    └─ 尾 ── 智能客服长尾问题
+              ↓
+经典NLP与分类层
+    │
+    ├─ 嵌 ── Word Embedding文本分类
+    ├─ 在 ── 高维稀疏数据处理
+    ├─ 现 ── 多语种文本分类挑战
+    ├─ 衡 ── 样本不平衡处理
+    └─ 边 ── SVM文本分类
+```
