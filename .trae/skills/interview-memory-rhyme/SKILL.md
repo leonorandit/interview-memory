@@ -1,6 +1,6 @@
 ---
 name: "interview-memory-rhyme"
-description: "Transforms interview knowledge points into mnemonic rhymes with a single anchor character and vivid metaphor expansion. Invoke when user provides interview questions, tech concepts, or asks for memory tricks, catchy summaries, or oral-exam-ready explanations."
+description: "Transforms interview concepts into catchy mnemonic rhymes with anchor characters. Invoke when user asks for memory tricks, tech summaries, or oral-exam-ready explanations."
 ---
 
 # 面试题顺口溜记忆法
